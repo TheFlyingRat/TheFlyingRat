@@ -13,7 +13,7 @@
 
 🌎  -  I am a native English speaker with basic Japanese knowledge 
 
-💻  -  My job is software development as well as web development
+💻  -  My job is software development with extensive knowledge of web development
 
 👨🏽‍💻  -  I am fluent in Python, HTML, CSS, and JavaScript with partial knowledge of Java, C and PHP
 
