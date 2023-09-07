@@ -39,11 +39,11 @@
 
 ~ Made with ❤️ by TheFlyingRat
 
-
+#
 
 ### Public Key
+```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
-
 mDMEZLtqbhYJKwYBBAHaRw8BAQdAzN3xTQA8VkjmHPrGgiXCMt0c0gryA5Gstx1r
 FYF3Z9y0K0pvZXkgTWFuYW5pIDx0aGVmbHlpbmdyYXRAdGhlZmx5aW5ncmF0LmNv
 bT6ImQQTFgoAQRYhBEnJO71hgyOilkQeAU0LwowRaDP0BQJku2puAhsjBQkFpLmy
@@ -56,6 +56,7 @@ wowRaDP0BQJku2puAhsMBQkFpLmyAAoJEE0LwowRaDP0DEYA/jjQabYw4tpM38d1
 xdH6wyU0CQ==
 =Ttoq
 -----END PGP PUBLIC KEY BLOCK-----
+```
 
 
 
