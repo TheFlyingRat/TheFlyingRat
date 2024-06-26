@@ -7,13 +7,13 @@
 ### About me
 🧑🏽  -  My name is Joey
 
-🎂  -  I am 17 years old
+🎂  -  I am 18 years old
 
 📍  -  I live in Australia
 
 🌎 - English is my native language and I have basic knowledge of Japanese
 
-💻 - My profession is in software development with a strong focus on web development
+💻 - My profession is in software development with a strong focus on cyber security
 
 👨🏽‍💻 - I am proficient in Python, HTML, CSS, and JavaScript, intermediate knowledge of Java, C, and PHP and basic knowledge of Rust, Go and C++
 
