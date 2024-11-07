@@ -11,7 +11,7 @@
 
 📍  -  I live in Australia
 
-🌎 - English is my native language and I have basic knowledge of Japanese
+🌎 - English is my native language and I have basic knowledge of Spanish and Japanese
 
 💻 - My profession is in software development with a strong focus on cyber security
 
