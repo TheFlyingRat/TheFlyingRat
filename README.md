@@ -11,11 +11,11 @@
 
 📍  -  I live in Australia
 
-🌎 - English is my native language and I have basic knowledge of Spanish and Japanese
+🌎 - English is my native language and proficiency in Spanish
 
 💻 - My profession is in software development with a strong focus on cyber security
 
-👨🏽‍💻 - I am proficient in Python, HTML, CSS, and JavaScript, intermediate knowledge of Java, C, and PHP and basic knowledge of Rust, Go and C++
+👨🏽‍💻 - I am proficient in Python, HTML, CSS, JavaScript, Ruby and NodeJS, intermediate knowledge of Java, C, and PHP and basic knowledge of Rust, Go, Assembly and C++
 
 
 
