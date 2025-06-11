@@ -7,35 +7,22 @@
 ### About me
 🧑🏽  -  My name is Joey
 
-🎂  -  I am 18 years old
+🎂  -  I am 19 years old
 
-📍  -  I live in Australia
+📍  -  I live in Melbourne, Australia
 
 🌎 - English is my native language and proficiency in Spanish
 
-💻 - My profession is in software development with a strong focus on cyber security
+💻 - My profession is in software development with a strong focus on cybersecurity
 
-👨🏽‍💻 - I am proficient in Python, HTML, CSS, JavaScript, Ruby and NodeJS, intermediate knowledge of Java, C, and PHP and basic knowledge of Rust, Go, Assembly and C++
-
-
-
-
-
-### History
-🌐 - My journey in web development started at the age of 10 when I created my first website. It was a simple page that displayed "My first website" in bold red writing on a green background, created using only HTML. Over the years, I have upgraded and improved my website, undergoing more than 5 major revisions and increasing in complexity with each iteration.
-
-
-
-🐍 - I discovered my love for Python programming through my passion for Raspberry Pis. I was fascinated by the idea of a tiny computer with endless capabilities, from running server-side apps and games to functioning as a full-fledged computer. I honed my skills by experimenting with modules and reading articles, eventually creating a Discord bot. In just two months, I became fluent in the language and now consider myself to be a highly skilled Python programmer, capable of tackling any challenge.
-
-
+👨🏽‍💻 - I am proficient in Python, HTML, CSS, JavaScript, Ruby, C# and NodeJS, intermediate knowledge of ARM Assembly, C, and PHP and basic knowledge of Rust, Go, Java, and C++
 
 ### Contact
 🌐  -  https://links.joeymanani.com
 
 🧑🏽  -  https://joeymanani.com
 
-📧  -  theflyingrat@theflyingrat.com
+📧  -  contact@joeymanani.com
 
 ~ Made with ❤️ by TheFlyingRat
 
